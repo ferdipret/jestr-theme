@@ -12,18 +12,21 @@
   "license": "ISC",
   "publisher": "ferdipret",
   "engines": {
-    "vscode": "^1.15.0"
+    "vscode": "^1.30.0"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/ferdipret/jestr-theme"
   },
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
         "label": "Jestr",
         "uiTheme": "vs-dark",
-        "path": "./theme/jestr.json"
+        "path": "./themes/jestr.json"
       }
     ]
   }
