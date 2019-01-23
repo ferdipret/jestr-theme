@@ -21,6 +21,13 @@ const editor = {
   foreground: base07
 }
 
+const activityBar = {
+  badge: {
+    background: base00
+  }
+}
+
 module.exports = {
-  editor
+  editor,
+  activityBar
 }

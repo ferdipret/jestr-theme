@@ -3,8 +3,8 @@
   "type": "dark",
   "colors": {
     "editor.background": "#2E3440",
-    "editor.foreground": "#d4d4d4",
-    "activityBarBadge.background": "#007acc",
+    "editor.foreground": "#E5E9F0",
+    "activityBarBadge.background": "#2E3440",
     "sideBarTitle.foreground": "#bbbbbb"
   },
   "tokenColors": [

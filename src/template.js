@@ -4,7 +4,7 @@ module.exports = ({ colors }) => ({
   colors: {
     "editor.background": colors.editor.background,
     "editor.foreground": colors.editor.foreground,
-    "activityBarBadge.background": "#007acc",
+    "activityBarBadge.background": colors.activityBar.badge.background,
     "sideBarTitle.foreground": "#bbbbbb"
   },
   tokenColors: [
